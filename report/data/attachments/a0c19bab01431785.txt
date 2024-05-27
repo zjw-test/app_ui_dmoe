@@ -1,0 +1,7 @@
+[32mINFO    [0m root:base_page.py:21 找到元素: ('xpath', '//androidx.appcompat.app.ActionBar.c[@content-desc="我"]')
+[32mINFO    [0m root:home_page.py:198 查找 我
+[32mINFO    [0m root:base_page.py:21 找到元素: ('id', 'com.smile.gifmaker:id/following_tv')
+[32mINFO    [0m root:home_page.py:200 点击 我的 关注
+[32mINFO    [0m root:base_page.py:21 找到元素: ('xpath', '//android.widget.TextView[@resource-id="com.smile.gifmaker:id/live_tip_text"]')
+[32mINFO    [0m root:home_page.py:203 进入 直播间
+[32mINFO    [0m root:test_user_zhu_ye.py:23 test_i_home

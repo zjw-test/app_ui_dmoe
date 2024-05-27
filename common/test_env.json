@@ -1,0 +1,11 @@
+{
+  "platformName": "Android",
+  "platformVersion": "10",
+  "deviceName": "127.0.0.1:62001",
+  "udid": "P7CDU18B27008888",
+  "appPackage": "com.smile.gifmaker",
+  "appActivity": "com.yxcorp.gifshow.HomeActivity",
+  "noReset": false,
+  "account": "demo",
+  "password": "123"
+}

@@ -1,0 +1,5 @@
+[32mINFO    [0m root:base_page.py:21 找到元素: ('id', 'com.smile.gifmaker:id/live_comment_text_view')
+[32mINFO    [0m root:base_page.py:21 找到元素: ('id', 'com.smile.gifmaker:id/editor')
+[32mINFO    [0m root:base_page.py:45 开始输入信息到元素: <appium.webdriver.webelement.WebElement (session="b01b4010-1abd-4c03-9f3d-f2bcb156a92a", element="00000000-0000-05ae-ffff-ffff000009a3")>, 输入内容: ['姐姐 今天真好看']
+[32mINFO    [0m root:base_page.py:48 输入完成: ['姐姐 今天真好看'] 到元素: <appium.webdriver.webelement.WebElement (session="b01b4010-1abd-4c03-9f3d-f2bcb156a92a", element="00000000-0000-05ae-ffff-ffff000009a3")>
+[32mINFO    [0m root:base_page.py:21 找到元素: ('id', 'com.smile.gifmaker:id/finish_button')
